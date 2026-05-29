@@ -1,4 +1,4 @@
-![logo](https://github.com/soumenshit1810-tech/soumenshit1810-tech/blob/main/banner.png)
+![logo](https://github.com/soumenshit1810-tech/soumenshit1810-tech/blob/main/banner2.png)
 <h1 align="center">Hi 👋, I'm Soumen Shit</h1>
 <h3 align="center">A passionate AI Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7IZQFJLZowL61yI5KzcNcd5fN9BDVGswSbw&s">
