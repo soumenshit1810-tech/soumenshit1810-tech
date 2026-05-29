@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building an end-to-end Machine Learning pipeline.<br>Open-source AI projects, hackathons.<br>Optimizing model deployment.<br>Deep Learning frameworks (PyTorch).<br>Python, data preprocessing.<br>I treat my code like a spoiled cat.
+Building an end-to-end Machine Learning pipeline.Open-source AI projects, hackathons.Optimizing model deployment.Deep Learning frameworks (PyTorch).Python, data preprocessing.<br>I treat my code like a spoiled cat.
 
 
 ## 🌐 Socials:
